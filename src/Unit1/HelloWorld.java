@@ -6,7 +6,7 @@ public class HelloWorld {
 		// Say hello
 
 		System.out.println("Hello World");
-		System.out.println("Mac Edit");
+
 	}
 
 }
