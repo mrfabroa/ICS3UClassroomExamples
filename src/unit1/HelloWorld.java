@@ -1,4 +1,6 @@
-package Unit1;
+package unit1;
+
+import stdlib.*;
 
 public class HelloWorld {
 
@@ -6,6 +8,11 @@ public class HelloWorld {
 		// Say hello
 
 		System.out.println("Hello World");
+		
+		int input = stdlib.StdIn.readInt();
+		System.out.println(input);
+		
+		
 
 	}
 
